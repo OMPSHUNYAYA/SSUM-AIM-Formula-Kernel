@@ -1,0 +1,80 @@
+{
+  "AIMFK_version": "0.2",
+  "manifest_name": "core_arithmetic",
+  "manifest_version": "1.7",
+  "input_mode": "generate_release_hash",
+  "task": "GENERATE_RELEASE_HASH",
+  "verify_file": "D:\\OMP\\SSUM-AIM FORMULA KERNEL\\Public_Release\\release\\VERIFY_SHA256.txt",
+  "entries_written": 16,
+  "frozen_boundary_file_count": 16,
+  "missing_file_count": 0,
+  "generation_status": "PASS",
+  "hash_entries": [
+    {
+      "relative_path": "CORE\\aimfk_router.py",
+      "sha256": "4cb2e1f7f669801356fdc8ebd7f99e54269183d010e22b94444dbbc2db2900d3"
+    },
+    {
+      "relative_path": "MANIFESTS\\core_arithmetic_manifest.json",
+      "sha256": "81ef4744203e8587b73e9de9e0e0ccfb3eb17addb8d6e4199f868b388344f4c4"
+    },
+    {
+      "relative_path": "RUN\\RUN_AIMFK.cmd",
+      "sha256": "6d2ddd91a386a2e3fb03b88a6ac4d4691d24f588ff530399f27998554b76f96e"
+    },
+    {
+      "relative_path": "EXAMPLES\\example_eval.json",
+      "sha256": "3554cb9e1c0f8ed7867b10332a851cbc5fd33be39081e05bc23b3a9d849303b1"
+    },
+    {
+      "relative_path": "EXAMPLES\\example_subst.json",
+      "sha256": "bc64d2b5d137163c75001b5e22c6f2fadc2ef8fe1e62b6b66fc186c5d2b401c0"
+    },
+    {
+      "relative_path": "EXAMPLES\\example_verify.json",
+      "sha256": "f55c0b43e3d74b0843dbf09a1aaec957291853e528add9a0de7633865b48c5e6"
+    },
+    {
+      "relative_path": "EXAMPLES\\example_poly_eval.json",
+      "sha256": "f3e776a4da3c52767c01ad8d58450fa9997409fb5978110403e198f1c49f74ae"
+    },
+    {
+      "relative_path": "EXAMPLES\\example_poly_sum.json",
+      "sha256": "70cd89458d02456483617c063edb48fcfc841d52ede805b8608eaaea6fc86685"
+    },
+    {
+      "relative_path": "EXAMPLES\\example_poly_mul.json",
+      "sha256": "4355cbccb7cfeb8b420409893d6db7fba2e95cd20c1b6a23d9cf4838ea5be779"
+    },
+    {
+      "relative_path": "EXAMPLES\\example_solve_linear.json",
+      "sha256": "7cbfc93e97e548fdec8e936bb8a505fd8d9cc553e43874d8bfba224876fb7fc2"
+    },
+    {
+      "relative_path": "EXAMPLES\\example_solve_quadratic.json",
+      "sha256": "c0a09673fbc54ff6ddd13d6acf751f014f70545dce8789102fb3695befde6256"
+    },
+    {
+      "relative_path": "EXAMPLES\\example_matrix_add.json",
+      "sha256": "4121adc35d1484aa85189cd81851d4834ceb8e1e0e7694827398e309a1d1d138"
+    },
+    {
+      "relative_path": "EXAMPLES\\example_matrix_sub.json",
+      "sha256": "6a49f9b9946bb55764f4051c23a0cc2bf5a150df35db427fc48bf5758a8791d4"
+    },
+    {
+      "relative_path": "EXAMPLES\\example_matrix_mul.json",
+      "sha256": "c88588b4b31bdcd4fbc0e0c75708b11b4c14902a350358a3a82fd278b16da046"
+    },
+    {
+      "relative_path": "release\\AIMFK_RELEASE_NOTES.txt",
+      "sha256": "98f50560867350852e3adee02ab4f387e3e23042cd7fbb014e3164f109f156c5"
+    },
+    {
+      "relative_path": "release\\FREEZE_NOTE.txt",
+      "sha256": "998e9a30173fb91a327e5ba54b391a105592b0cc2cd6f531955cf93ea1efb8d5"
+    }
+  ],
+  "timestamp": "2026-03-11T17:03:36.104432+00:00",
+  "stamp": "70919b8199619ad3ea726161608e4be3ba61fe77587e2067d27855b2fff3f3b1"
+}

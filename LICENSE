@@ -1,0 +1,204 @@
+Open Standard License — SSUM-AIM Formula Kernel (AIMFK)
+
+SSUM-AIM Formula Kernel (AIMFK)
+Deterministic Formula Intelligence Standard
+
+
+Permission
+
+Permission is hereby granted, free of charge, to any person or organization to use, execute, reproduce, publish, distribute, reference, extend, modify, or incorporate the SSUM-AIM Formula Kernel (AIMFK) methodology, documentation, and reference implementations, in whole or in part, without restriction.
+
+This permission applies to both commercial and non-commercial use.
+
+No registration required.
+No fees required.
+No approval required.
+
+
+No Restrictions
+
+This Open Standard imposes no legal, technical, or commercial restrictions on use or implementation of the AIMFK methodology.
+
+Attribution is not required.
+No endorsement is implied.
+No runtime obligations apply.
+No implementation approval is required.
+
+Correctness and conformance are governed exclusively by:
+
+• deterministic symbolic computation
+• manifest-bounded rule execution
+• replay-verifiable computation
+
+—not by licensing terms.
+
+Modified or extended versions must not be represented as the canonical AIMFK Standard unless they preserve the deterministic computation discipline defined herein.
+
+
+Recommended Attribution (Optional)
+
+Attribution is recommended but not required.
+
+Preferred form:
+
+Implements the SSUM-AIM Formula Kernel (AIMFK) methodology.
+
+Attribution must not imply:
+
+• endorsement
+• certification authority
+• governance authority
+• authorship by the original authors
+
+
+Trademark and Naming
+
+This license does not grant any trademark rights.
+
+Use of the names:
+
+• SSUM-AIM Formula Kernel (AIMFK)
+• Shunyaya Structural Universal Mathematics (SSUM)
+
+must not imply:
+
+• endorsement
+• certification authority
+• official compliance approval
+• governance authority
+• authorship by the original authors
+
+
+Scope of the AIMFK Standard
+
+The SSUM-AIM Formula Kernel (AIMFK) defines a deterministic methodology for performing symbolic mathematical computations through explicit transformation rules.
+
+The kernel processes bounded symbolic tasks such as:
+
+• formula evaluation
+• symbolic substitution
+• equation verification
+• polynomial computation
+• matrix operations
+• symbolic simplification
+• equation solving
+
+Each task is executed through deterministic rule transformations.
+
+Conceptually:
+
+Result = Φ(Task, Rules, Inputs)
+
+Where:
+
+Task   = requested symbolic operation
+Rules  = deterministic transformation rules
+Inputs = task parameters
+
+The computation produces:
+
+• deterministic results
+• transformation records (proof traces)
+• replay-verifiable outputs
+
+
+Deterministic Computation Discipline
+
+The AIMFK methodology follows three deterministic rules.
+
+Deterministic Execution
+same task input → same result
+
+Mutation Sensitivity
+changed input → changed result
+
+Replay Verification
+re-execution of the same task produces the same output
+
+These rules define deterministic formula intelligence.
+
+
+What AIMFK Does NOT Do
+
+The AIMFK standard does not:
+
+• modify classical mathematics
+• introduce probabilistic inference
+• perform machine learning
+• train statistical models
+• simulate predictions
+• inject randomness
+• alter execution semantics
+
+It performs deterministic symbolic computation only.
+
+
+Conformance
+
+An implementation conforms to the AIMFK Standard if it:
+
+• executes symbolic transformations deterministically
+• uses explicit rule-based transformations
+• produces reproducible results for identical inputs
+• preserves deterministic proof traces where applicable
+• produces different outputs when task inputs differ
+
+Any implementation introducing:
+
+• randomness
+• probabilistic inference
+• nondeterministic output ordering
+• hidden state mutation
+• adaptive runtime mutation
+
+does not conform to the deterministic AIMFK standard.
+
+Independent implementations are permitted and encouraged.
+
+
+Relationship to Other Licenses
+
+This Open Standard applies to the AIMFK methodology and deterministic computation discipline.
+
+Reference implementations, example scripts, datasets, tooling, or supporting libraries may be released under separate licenses if explicitly stated.
+
+Implementation licensing does not alter deterministic conformance requirements of this Standard.
+
+
+Responsibility
+
+Use of the SSUM-AIM Formula Kernel (AIMFK) in software systems, research, infrastructure, governance systems, or operational environments is undertaken entirely at the user's own responsibility.
+
+The AIMFK Standard provides:
+
+• deterministic symbolic computation
+• replay-verifiable formula execution
+• inspectable transformation traces
+
+It does not provide:
+
+• operational authority
+• regulatory certification
+• security guarantees
+• safety guarantees
+• compliance approval
+
+
+No Warranty
+
+THE AIMFK STANDARD IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS, MAINTAINERS, OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OF THIS STANDARD.
+
+
+Closing Statement
+
+The SSUM-AIM Formula Kernel (AIMFK) is published as an open deterministic standard for replay-verifiable symbolic computation.
+
+Its authority is governed by:
+
+deterministic computation
+explicit rule transformations
+replay verification
+
+—not by permission.

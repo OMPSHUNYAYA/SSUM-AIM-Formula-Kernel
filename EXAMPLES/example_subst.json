@@ -1,0 +1,10 @@
+{
+  "task": "SUBST",
+  "expression": "a*x^2 + b*x + c",
+  "values": {
+    "a": 2,
+    "b": 3,
+    "c": 1,
+    "x": 4
+  }
+}

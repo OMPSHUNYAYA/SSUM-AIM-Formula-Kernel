@@ -1,0 +1,4 @@
+{
+  "task": "EVAL",
+  "expression": "3*(5+2)^2"
+}

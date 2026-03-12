@@ -1,0 +1,8 @@
+{
+  "task": "VERIFY",
+  "left_expression": "x+x",
+  "right_expression": "2*x",
+  "values": {
+    "x": 7
+  }
+}

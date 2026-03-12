@@ -2,6 +2,8 @@
 
 A **~25 KB deterministic formula intelligence kernel** implementing the **Artificial Intelligence Manifest (AIM)** model within the **Shunyaya Structural Universal Mathematics (SSUM)** framework.
 
+[![Release Verification](https://github.com/OMPSHUNYAYA/SSUM-AIM-Formula-Kernel/actions/workflows/release_verify.yml/badge.svg)](https://github.com/OMPSHUNYAYA/SSUM-AIM-Formula-Kernel/actions/workflows/release_verify.yml)
+
 ![SSUM-AIM](https://img.shields.io/badge/SSUM--AIM-Artificial%20Intelligence%20Manifest-black)
 ![Deterministic](https://img.shields.io/badge/Deterministic-Computation-green)
 ![Replay-Verifiable](https://img.shields.io/badge/Replay--Verifiable-Yes-brightgreen)

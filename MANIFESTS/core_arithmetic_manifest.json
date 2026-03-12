@@ -1,0 +1,35 @@
+{
+  "manifest_name": "core_arithmetic",
+  "version": "1.7",
+  "task_types": [
+    "EVAL",
+    "SUBST",
+    "VERIFY",
+    "POLY_EVAL",
+    "POLY_SUM",
+    "POLY_MUL",
+    "SOLVE_LINEAR",
+    "SOLVE_QUADRATIC",
+    "MATRIX_ADD",
+    "MATRIX_SUB",
+    "MATRIX_MUL",
+    "SIMPLIFY"
+  ],
+  "allowed_operators": [
+    "+",
+    "-",
+    "*",
+    "/",
+    "^"
+  ],
+  "allowed_functions": [
+    "sqrt"
+  ],
+  "max_expression_length": 256,
+  "verify_mode": "numeric_bounded",
+  "polynomial_mode": "coefficient_array",
+  "solve_mode": "classical_closed_form",
+  "matrix_mode": "dense_list",
+  "simplify_mode": "deterministic_rule_set",
+  "proof_trace_mode": "deterministic_proof_trace"
+}
